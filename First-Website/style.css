@@ -1,0 +1,19 @@
+
+
+
+
+h1{
+  color:darkorchid;
+  background: lightblue;
+  font-family: 'Times New Roman', Arial;
+  font-size: 35px;
+  font-weight: 900;
+  font-style: oblique;
+}
+
+p{
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  font-weight: 600;
+}
